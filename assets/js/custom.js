@@ -159,6 +159,11 @@ $(document).ready(function(){
 		$('#navbar-menu').on('hide.bs.collapse', function() {
 			$(this).removeClass('dropdown-active');
 		});
+
+
+
+
+		
 		
 });	
 
